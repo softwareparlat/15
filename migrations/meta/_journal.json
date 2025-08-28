@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1756316604380,
+      "tag": "0000_great_odin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1756335888205,
+      "tag": "0001_medical_quentin_quire",
+      "breakpoints": true
+    }
+  ]
+}
